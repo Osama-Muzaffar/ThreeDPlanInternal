@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "interior_1",
+      "title": "Modern Interior",
+      "category": "Interior",
+      "image": "InteriorExterior/Interior/Interior_1.png",
+      "isPro": false
+    },
+    {
+      "id": "interior_2",
+      "title": "Cozy Interior",
+      "category": "Interior",
+      "image": "InteriorExterior/Interior/Interior_2.png",
+      "isPro": false
+    },
+    {
+      "id": "interior_3",
+      "title": "Elegant Interior",
+      "category": "Interior",
+      "image": "InteriorExterior/Interior/Interior_3.png",
+      "isPro": false
+    },
+    {
+      "id": "interior_4",
+      "title": "Minimalist Interior",
+      "category": "Interior",
+      "image": "InteriorExterior/Interior/Interior_4.png",
+      "isPro": false
+    },
+    {
+      "id": "interior_5",
+      "title": "Luxury Interior",
+      "category": "Interior",
+      "image": "InteriorExterior/Interior/Interior_5.png",
+      "isPro": false
+    },
+    {
+      "id": "interior_6",
+      "title": "Contemporary Interior",
+      "category": "Interior",
+      "image": "InteriorExterior/Interior/Interior_6.png",
+      "isPro": false
+    },
+    {
+      "id": "exterior_1",
+      "title": "Modern Exterior",
+      "category": "Exterior",
+      "image": "InteriorExterior/Exterior/exterior_1.png",
+      "isPro": false
+    },
+    {
+      "id": "exterior_2",
+      "title": "Classic Exterior",
+      "category": "Exterior",
+      "image": "InteriorExterior/Exterior/exterior_2.png",
+      "isPro": false
+    },
+    {
+      "id": "exterior_3",
+      "title": "Contemporary Exterior",
+      "category": "Exterior",
+      "image": "InteriorExterior/Exterior/exterior_3.png",
+      "isPro": false
+    },
+    {
+      "id": "exterior_4",
+      "title": "Luxury Facade",
+      "category": "Exterior",
+      "image": "InteriorExterior/Exterior/exterior_4.png",
+      "isPro": false
+    },
+    {
+      "id": "exterior_5",
+      "title": "Garden Exterior",
+      "category": "Exterior",
+      "image": "InteriorExterior/Exterior/exterior_5.png",
+      "isPro": false
+    },
+    {
+      "id": "exterior_6",
+      "title": "Night View Exterior",
+      "category": "Exterior",
+      "image": "InteriorExterior/Exterior/exterior_6.png",
+      "isPro": false
+    },
+    {
+      "id": "gamer_1",
+      "title": "Gamer Room Setup",
+      "category": "Gamer",
+      "image": "InteriorExterior/Gamer/gamer_1.png",
+      "isPro": false
+    },
+    {
+      "id": "gamer_2",
+      "title": "Gaming Lounge",
+      "category": "Gamer",
+      "image": "InteriorExterior/Gamer/gamer_2.png",
+      "isPro": false
+    },
+    {
+      "id": "gamer_3",
+      "title": "Pro Gamer Den",
+      "category": "Gamer",
+      "image": "InteriorExterior/Gamer/gamer_3.png",
+      "isPro": false
+    },
+    {
+      "id": "gamer_4",
+      "title": "RGB Gaming Room",
+      "category": "Gamer",
+      "image": "InteriorExterior/Gamer/gamer_4.png",
+      "isPro": false
+    },
+    {
+      "id": "gamer_5",
+      "title": "Streaming Setup",
+      "category": "Gamer",
+      "image": "InteriorExterior/Gamer/gamer_5.png",
+      "isPro": false
+    },
+    {
+      "id": "gamer_6",
+      "title": "Esports Gaming Room",
+      "category": "Gamer",
+      "image": "InteriorExterior/Gamer/gamer_6.png",
+      "isPro": false
+    },
+    {
+      "id": "girls_1",
+      "title": "Girls Bedroom",
+      "category": "Girls",
+      "image": "InteriorExterior/Girls/girls_1.png",
+      "isPro": false
+    },
+    {
+      "id": "girls_2",
+      "title": "Pink Girls Room",
+      "category": "Girls",
+      "image": "InteriorExterior/Girls/girls_2.png",
+      "isPro": false
+    },
+    {
+      "id": "girls_3",
+      "title": "Elegant Girls Room",
+      "category": "Girls",
+      "image": "InteriorExterior/Girls/girls_3.png",
+      "isPro": false
+    },
+    {
+      "id": "girls_4",
+      "title": "Princess Themed Room",
+      "category": "Girls",
+      "image": "InteriorExterior/Girls/girls_4.png",
+      "isPro": false
+    },
+    {
+      "id": "girls_5",
+      "title": "Pastel Girls Room",
+      "category": "Girls",
+      "image": "InteriorExterior/Girls/girls_5.png",
+      "isPro": false
+    },
+    {
+      "id": "girls_6",
+      "title": "Boho Girls Room",
+      "category": "Girls",
+      "image": "InteriorExterior/Girls/girls_6.png",
+      "isPro": false
+    },
+    {
+      "id": "kids_1",
+      "title": "Kids Bedroom",
+      "category": "Kids",
+      "image": "InteriorExterior/Kids/kids_1.png",
+      "isPro": false
+    },
+    {
+      "id": "kids_2",
+      "title": "Playful Kids Room",
+      "category": "Kids",
+      "image": "InteriorExterior/Kids/kids_2.png",
+      "isPro": false
+    },
+    {
+      "id": "kids_3",
+      "title": "Colorful Kids Room",
+      "category": "Kids",
+      "image": "InteriorExterior/Kids/kids_3.png",
+      "isPro": false
+    },
+    {
+      "id": "kids_4",
+      "title": "Adventure Themed Kids Room",
+      "category": "Kids",
+      "image": "InteriorExterior/Kids/kids_4.png",
+      "isPro": false
+    },
+    {
+      "id": "kids_5",
+      "title": "Bunk Bed Kids Room",
+      "category": "Kids",
+      "image": "InteriorExterior/Kids/kids_5.png",
+      "isPro": false
+    },
+    {
+      "id": "kids_6",
+      "title": "Cartoon Themed Kids Room",
+      "category": "Kids",
+      "image": "InteriorExterior/Kids/kids_6.png",
+      "isPro": false
+    },
+    {
+      "id": "lightning_1",
+      "title": "Ambient Lighting",
+      "category": "Lightning",
+      "image": "InteriorExterior/Lightning/Lighting_1.png",
+      "isPro": false
+    },
+    {
+      "id": "lightning_2",
+      "title": "Accent Lighting",
+      "category": "Lightning",
+      "image": "InteriorExterior/Lightning/Lighting_2.png",
+      "isPro": false
+    },
+    {
+      "id": "lightning_3",
+      "title": "Mood Lighting",
+      "category": "Lightning",
+      "image": "InteriorExterior/Lightning/Lighting_3.png",
+      "isPro": false
+    },
+    {
+      "id": "lightning_4",
+      "title": "Ceiling Cove Lighting",
+      "category": "Lightning",
+      "image": "InteriorExterior/Lightning/Lighting_4.png",
+      "isPro": false
+    },
+    {
+      "id": "lightning_5",
+      "title": "Chandelier Lighting",
+      "category": "Lightning",
+      "image": "InteriorExterior/Lightning/Lighting_5.png",
+      "isPro": false
+    },
+    {
+      "id": "lightning_6",
+      "title": "LED Strip Lighting",
+      "category": "Lightning",
+      "image": "InteriorExterior/Lightning/Lighting_6.png",
+      "isPro": false
+    }
+  ]
+}
