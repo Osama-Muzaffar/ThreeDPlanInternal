@@ -96,6 +96,14 @@
       "areaSqFt": 4850,
       "image": "BuiltedPlans/1 Kanal/builted_one_kanal_3.png",
       "isPro": false
+    },
+      {
+      "id": "signature_1kanal_tech",
+      "name": "Signature 1 Kanal Villa updated",
+      "category": "1 Kanal",
+      "areaSqFt": 4850,
+      "image": "BuiltedPlans/1 Kanal/builted_one_kanal_3.png",
+      "isPro": false
     }
   ]
 }
