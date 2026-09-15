@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "plans": [
+    {
+      "id": "compact_3marla",
+      "name": "Compact 3 Marla Townhouse",
+      "category": "3 Marla",
+      "areaSqFt": 675,
+      "image": "BuiltedPlans/3 Marla/builted_three_marla_1.png",
+      "isPro": false
+    },
+    {
+      "id": "cozy_3marla",
+      "name": "Cozy 3 Marla Cottage",
+      "category": "3 Marla",
+      "areaSqFt": 700,
+      "image": "BuiltedPlans/3 Marla/builted_three_marla_2.png",
+      "isPro": false
+    },
+    {
+      "id": "urban_3marla",
+      "name": "Urban 3 Marla Residence",
+      "category": "3 Marla",
+      "areaSqFt": 720,
+      "image": "BuiltedPlans/3 Marla/builted_three_marla_3.png",
+      "isPro": false
+    },
+    {
+      "id": "modern_5marla",
+      "name": "Modern 5 Marla Villa",
+      "category": "5 Marla",
+      "areaSqFt": 1125,
+      "image": "BuiltedPlans/5 Marla/builted_five_marla_1.png",
+      "isPro": false
+    },
+    {
+      "id": "premium_5marla",
+      "name": "Premium 5 Marla Home",
+      "category": "5 Marla",
+      "areaSqFt": 1175,
+      "image": "BuiltedPlans/5 Marla/builted_five_marla_2.png",
+      "isPro": false
+    },
+    {
+      "id": "contemporary_5marla",
+      "name": "Contemporary 5 Marla House",
+      "category": "5 Marla",
+      "areaSqFt": 1150,
+      "image": "BuiltedPlans/5 Marla/builted_five_marla_3.png",
+      "isPro": false
+    },
+    {
+      "id": "classic_10marla",
+      "name": "Classic 10 Marla Residence",
+      "category": "10 Marla",
+      "areaSqFt": 2250,
+      "image": "BuiltedPlans/10 Marla/builted_ten_marla_1.png",
+      "isPro": false
+    },
+    {
+      "id": "royal_10marla",
+      "name": "Royal 10 Marla Residence",
+      "category": "10 Marla",
+      "areaSqFt": 2350,
+      "image": "BuiltedPlans/10 Marla/builted_ten_marla_2.png",
+      "isPro": false
+    },
+    {
+      "id": "luxury_10marla",
+      "name": "Luxury 10 Marla Manor",
+      "category": "10 Marla",
+      "areaSqFt": 2300,
+      "image": "BuiltedPlans/10 Marla/builted_ten_marla_3.png",
+      "isPro": false
+    },
+    {
+      "id": "grand_1kanal",
+      "name": "Grand 1 Kanal Mansion",
+      "category": "1 Kanal",
+      "areaSqFt": 4700,
+      "image": "BuiltedPlans/1 Kanal/builted_one_kanal_1.png",
+      "isPro": false
+    },
+    {
+      "id": "expansive_1kanal",
+      "name": "Expansive 1 Kanal Estate",
+      "category": "1 Kanal",
+      "areaSqFt": 4500,
+      "image": "BuiltedPlans/1 Kanal/builted_one_kanal_2.png",
+      "isPro": false
+    },
+    {
+      "id": "signature_1kanal",
+      "name": "Signature 1 Kanal Villa",
+      "category": "1 Kanal",
+      "areaSqFt": 4850,
+      "image": "BuiltedPlans/1 Kanal/builted_one_kanal_3.png",
+      "isPro": false
+    }
+  ]
+}
