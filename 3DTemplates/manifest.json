@@ -96,15 +96,6 @@
       "areaSqFt": 4900,
       "image": "3DTemplates/1 kanal/template_pool_1kanal.jpg",
       "isPro": false
-    },
-    
-    {
-      "id": "pool_1kanal2",
-      "name": "Pool 1 Kanal Villa Updated",
-      "category": "1 Kanal",
-      "areaSqFt": 4900,
-      "image": "3DTemplates/1 kanal/template_pool_1kanal.jpg",
-      "isPro": false
     }
   ]
 }
